@@ -1,4 +1,4 @@
-# jensengbg-linda-jansson
+# linda-jansson-gbg
 **Hi there! I´m Linda** :wave: <br><br>
 :computer: :pencil2: I´m studying to become a front end developer<br>
 :house: :earth_africa: I live in Gothenburg, Sweden<br>
