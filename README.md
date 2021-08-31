@@ -1,7 +1,7 @@
 **Hi there! I´m Linda** :wave: <br><br>
 :computer: :pencil2: I´m studying to become a front end developer<br>
 :house: :earth_africa: I live in Gothenburg, Sweden<br>
-:two_men_holding_hands:  :couple: When I´m not stuying I like to :airplane: and hang out with friends and play :black_joker: <br><br>
+:two_men_holding_hands:  :couple: When I´m not studying I like to :airplane: and hang out with friends and play :black_joker: <br><br>
 My main focus right now is:<br>
 <img align="left" alt="HTML5" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
