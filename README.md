@@ -11,4 +11,4 @@ My main focus right now is:<br>
 <br><br>
 Connect with me:<br><a href="https://www.linkedin.com/in/linda-jansson/" target="_blank"><img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda-jansson-gbg&layout=compact&theme=white)
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda-jansson-gbg&layout=compact&theme=white)</a>
