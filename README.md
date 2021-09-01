@@ -3,7 +3,7 @@
 :house: :earth_africa: I live in Gothenburg, Sweden<br>
 :two_men_holding_hands:  :couple: When I´m not studying I like to :airplane: and hang out with friends and play :black_joker: <br><br>
 My main focus right now is:<br>
-<img target="#" align="left" alt="HTML5" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="#" style="cursor:default"><img align="left" alt="HTML5" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <img align="left" alt="CSS3" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JavaScript" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="Vue.js" height="30px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
