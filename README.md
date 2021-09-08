@@ -10,7 +10,7 @@ I small portion of what I´ve been learning so far:<br>
 <a href="#"><img align="left" alt="Sass" height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
 <a href="#"><img align="left" alt="Jest" height="30px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>
 <a href="#"><img align="left" alt="MongoDb" height="30px" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /></a>
-<a href="#"><img align="left" alt="Node.JS" height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a><br>
+<a href="#"><img align="left" alt="Node.JS" height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a><br><br>
 <a href="#"><img align="left" alt="NPM" height="30px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 <a href="#"><img align="left" alt="Express.js" height="30px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href="#"><img align="left" alt="Vite" height="30px" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /></a>
