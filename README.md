@@ -17,6 +17,8 @@ A portion of what I´ve been learning so far at JENSEN Education:<br>
 <a href="#"><img style="max-width: 100%;" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
 <a href="#"><img style="max-width: 100%;" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <a href="#"><img style="max-width: 100%;" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></a>
+<a href="#"><img style="max-width: 100%;" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
+
 <br><br>
 Connect with me:<br><a href="https://www.linkedin.com/in/linda-jansson/" target="_blank"><img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
