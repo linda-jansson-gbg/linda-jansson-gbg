@@ -4,7 +4,7 @@
 :two_men_holding_hands:  :couple: When I´m not working I like to :airplane: and hang out with friends and play :black_joker: <br><br>
 Some of my knowledge:<br>
 <a href="#"><img style="max-width: 100%;" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="#"><img style="max-width: 100%;" alt="CSS3" src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" /></a>
+<a href="#"><img style="max-width: 100%;" alt="CSS3" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 
 <a href="#"><img style="max-width: 100%;" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#"><img style="max-width: 100%;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
