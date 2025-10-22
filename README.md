@@ -22,5 +22,3 @@ Some of my knowledge:<br>
 <a href="#"><img style="max-width: 100%;" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
 <br><br>
 Connect with me:<br><a href="https://www.linkedin.com/in/linda-jansson/" target="_blank"><img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda-jansson-gbg&hide=dockerfile&layout=compact&theme=white)</a>
