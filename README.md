@@ -1,5 +1,5 @@
 **Hi there! I´m Linda** :wave: <br><br>
-:computer: :pencil2: I´m front end developer<br>
+:computer: :pencil2: I´m a front end developer<br>
 :house: :earth_africa: I live in Gothenburg, Sweden<br>
 :two_men_holding_hands:  :couple: When I´m not working I like to :airplane: and hang out with friends and play :black_joker: <br><br>
 Some of my knowledge:<br>
